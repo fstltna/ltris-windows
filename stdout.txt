@@ -1,0 +1,10 @@
+LTris 1.2.3
+Copyright 2002-2020 Michael Speck
+Published under GNU GPL
+---
+Looking up data in: .
+Mode 640x480x16 Window valid
+Mode 640x480x16 Fullscreen valid
+No game controller found...
+Display resolution: 1280 x 800
+Saving highscore chart in: .

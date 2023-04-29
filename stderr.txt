@@ -1,0 +1,3 @@
+./ltris.conf: file not found
+Cannot load figures from './figures'.
+Highscore chart doesn't exist in '.'... creating new one.

@@ -1,0 +1,1 @@
+ltris.exe -f
